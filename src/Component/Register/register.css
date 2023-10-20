@@ -1,0 +1,10 @@
+button {
+    background-color: var(--main-color);
+    color: var(--light-color);
+}
+input{
+    box-shadow: 10px 10px 3px 4px var(--light-color) !important;
+}
+input:focus{
+    border: 2px solid  var(--main-color) !important ;
+}
